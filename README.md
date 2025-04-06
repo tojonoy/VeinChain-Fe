@@ -112,6 +112,11 @@ npm run lint:fix
 
 ---
 
+
+### 4.Change the backend url as per the dynamic one 
+
+Change the url for the api services from the backend accordingly.
+
 ## Additional Configuration: ESLint with React & TypeScript
 
 If you wish to expand your ESLint configuration for a production-level application, consider using plugins for React and TypeScript. An example configuration in `eslint.config.js` might be:
